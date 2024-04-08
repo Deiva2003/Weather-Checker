@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav>
+        <input type="text" id="nameInput">
+        <i class="fa-solid fa-magnifying-glass fa-xl" id="search"></i>
+    </nav>
+    <section class="middleContent">
+        <img src="WeatherImage/sun.png" id="weatherImage">
+        <h1 id="celsius">0 &#8451;</h1>
+        <h3 id="placeName">Place</h3>
+    </section>
+    <section class="bottomContent">
+        <div id="humidity">
+            <i class="fa-solid fa-water"></i>
+            <div id="innerHumidity">
+                <h4 id="humidityPercent">0 &#37;</h4>
+                <h5>Humidity</h5>
+            </div>
+        </div>
+        <div id="wind">
+            <i class="fa-solid fa-wind"></i>
+            <div id="innerWind">
+                <h4 id="windSpeed">0 km/h</h4>
+                <h5>Wind Speed</h5>
+            </div>
+        </div>
+    </section>
+    <script src="https://kit.fontawesome.com/03c85e8dfa.js" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

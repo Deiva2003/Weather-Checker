@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
+nav{
+    background-color: blue;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav > input{
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    border: none;
+    padding: 10px;
+    border-radius: 15px;
+}
+nav > input:focus{
+    outline: none;
+}
+nav > i{
+    padding: 8px;
+    color: white;
+    cursor: pointer;
+}
+.middleContent{
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.middleContent >img{
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 200px;
+}
+#celsius{
+    margin-top: 20px;
+    font-size: 40px;
+}
+#placeName{
+    font-size: 30px;
+}
+.bottomContent{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-self: center;
+}
+#humidity{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#humidity > i{
+    font-size: 35px;
+}
+#innerHumidity{
+    margin-left: 10px;
+}
+#wind{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#wind > i{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 35px;
+}
+#innerWind{
+    margin-left: 10px;
+}

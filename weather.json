@@ -1,0 +1,125 @@
+{
+    "weather": [
+      {
+        "place": "Chennai",
+        "temperature_C": 29,
+        "wind_speed_kph": 11,
+        "humidity_percentage": 76
+      },
+      {
+        "place": "Coimbatore",
+        "temperature_C": 8,
+        "wind_speed_kph": 13,
+        "humidity_percentage": 78
+      },
+      {
+        "place": "Madurai",
+        "temperature_C": 32,
+        "wind_speed_kph": 15,
+        "humidity_percentage": 65
+      },
+      {
+        "place": "Tiruchirappalli",
+        "temperature_C": 29,
+        "wind_speed_kph": 7,
+        "humidity_percentage": 68
+      },
+      {
+        "place": "Salem",
+        "temperature_C": 28,
+        "wind_speed_kph": 6,
+        "humidity_percentage": 67
+      },
+      {
+        "place": "Tirunelveli",
+        "temperature_C": 31,
+        "wind_speed_kph": 12,
+        "humidity_percentage": 75
+      },
+      {
+        "place": "Vellore",
+        "temperature_C": 27,
+        "wind_speed_kph": 9,
+        "humidity_percentage": 72
+      },
+      {
+        "place": "Erode",
+        "temperature_C": 26,
+        "wind_speed_kph": 8,
+        "humidity_percentage": 63
+      },
+      {
+        "place": "Thoothukudi",
+        "temperature_C": 30,
+        "wind_speed_kph": 11,
+        "humidity_percentage": 71
+      },
+      {
+        "place": "Thanjavur",
+        "temperature_C": 30,
+        "wind_speed_kph": 11,
+        "humidity_percentage": 69
+      },
+      {
+        "place": "Dindigul",
+        "temperature_C": 28,
+        "wind_speed_kph": 7,
+        "humidity_percentage": 66
+      },
+      {
+        "place": "Karur",
+        "temperature_C": 27,
+        "wind_speed_kph": 8,
+        "humidity_percentage": 68
+      },
+      {
+        "place": "Nagercoil",
+        "temperature_C": 32,
+        "wind_speed_kph": 10,
+        "humidity_percentage": 74
+      },
+      {
+        "place": "Namakkal",
+        "temperature_C": 29,
+        "wind_speed_kph": 7,
+        "humidity_percentage": 70
+      },
+      {
+        "place": "Perambalur",
+        "temperature_C": 29,
+        "wind_speed_kph": 9,
+        "humidity_percentage": 68
+      },
+      {
+        "place": "Pudukkottai",
+        "temperature_C": 28,
+        "wind_speed_kph": 8,
+        "humidity_percentage": 67
+      },
+      {
+        "place": "Ramanathapuram",
+        "temperature_C": 31,
+        "wind_speed_kph": 10,
+        "humidity_percentage": 76
+      },
+      {
+        "place": "Sivaganga",
+        "temperature_C": 28,
+        "wind_speed_kph": 8,
+        "humidity_percentage": 67
+      },
+      {
+        "place": "Theni",
+        "temperature_C": 27,
+        "wind_speed_kph": 9,
+        "humidity_percentage": 64
+      },
+      {
+        "place": "Virudhunagar",
+        "temperature_C": 26,
+        "wind_speed_kph": 10,
+        "humidity_percentage": 66
+      }
+    ]
+  }
+  
